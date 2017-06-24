@@ -3,7 +3,7 @@
 Library for DLL injection.
 
 ## Usage
-```
+```cpp
 #include <DLLInjector.h>
 
 DLLInjector injector;
